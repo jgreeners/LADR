@@ -1,0 +1,20 @@
+This is the LADR template.
+
+Title 
+Short present tense imperative phrase, less than 50 characters, like a git commit message.
+
+Prologue (Summary)
+In the context of (use case) facing (concern) we decided for (option) to achieve (quality) accepting (downside).
+
+Status
+proposed, accepted, rejected, deprecated, superseded, etc.
+
+Discussion (Context)
+Explains the forces at play (technical, political, social, project). This is the story explaining the problem we are looking to resolve. 
+What is the issue that we're seeing that is motivating this decision or change.
+
+Solution (Decision)
+What is the change that we're actually proposing or doing. Explains how the decision will solve the problem.
+
+Consequences (Results)
+Explains the results of the decision over the long term.  what becomes easier or more difficult to do because of this change.
